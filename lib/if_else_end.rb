@@ -5,4 +5,4 @@
 #   p"odd!"
 # end
 
-puts Time.now
+puts Time.now.select_second
