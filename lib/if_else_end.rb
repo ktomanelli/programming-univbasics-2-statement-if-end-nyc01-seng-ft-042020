@@ -4,3 +4,5 @@
 # else
 #   p"odd!"
 # end
+
+puts Time.now
