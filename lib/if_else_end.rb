@@ -6,4 +6,4 @@ myTime = (Time.now).to_i
 #   p"odd!"
 # end
 
-puts Time.now.select_second
+puts myTime
